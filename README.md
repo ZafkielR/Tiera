@@ -15,7 +15,6 @@
   - **设计时的一些想法：**
     - ../CN/9_后记.xlsx
   - **文案相关：（provided by [tufuchipaji](https://github.com/tufuchipaji)）**
-    - ../CN/文案总文件夹
     - [在线文档](https://docs.qq.com/sheet/DQVhIaXZqbmxmSUJx?tab=BB08J2&_t=1660295728360)
   - **机制图示：**
     - ../Graphic Presentation.pptx
